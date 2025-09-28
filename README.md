@@ -15,8 +15,8 @@ README.md: This file, providing an overview and documentation for the project.
 Installation
 To run this project locally, follow these steps:
  
-Clone the repository:
-git clone https://github.com/manichandrika1380/School-Donation-Analysis.git
+Clone the repository:https://github.com/Sreeja2612/School-Donation-Analysis-1.git
+git clone 
 cd School-Donation-Analysis
  
 Set up a Python environment:
